@@ -32,12 +32,12 @@
     }
   },
   "dashboard": {
-  "bindAddress": "0.0.0.0:8081",
+  "bindAddress": "0.0.0.0:80",
   "auth": {
     "sessionTimeout": "72h",
     "username": "admin",
-    "passwordHash": "a93ad0a6167372b160eddf7c09cc30578dc0c9dc873a06db36124ecc689eb81d",
-    "passwordSalt": "69c563b162b9727834eb6420ab44049f8e9f5755fc45e69a52f79b0a0505915e"
+    "passwordHash": "2518cb1efc5fb9256bcd8123eba6da414e5847ea9d01ef8eaf048ce6740bcfc4",
+    "passwordSalt": "88be5c8f7bc6752a9691474062cab1913524e8dfd26e77cbbc5bdb13db1a1dbe"
   }
   },
   "db": {
