@@ -32,14 +32,13 @@
     }
   },
   "dashboard": {
-    "bindAddress": "localhost:8081",
-    "dev": false,
-    "auth": {
-      "sessionTimeout": "72h",
-      "username": "admin",
-      "passwordHash": "0000000000000000000000000000000000000000000000000000000000000000",
-      "passwordSalt": "0000000000000000000000000000000000000000000000000000000000000000"
-    }
+  "bindAddress": "20.105.122.26:8081",
+  "auth": {
+    "sessionTimeout": "72h",
+    "username": "admin",
+    "passwordHash": "a93ad0a6167372b160eddf7c09cc30578dc0c9dc873a06db36124ecc689eb81d",
+    "passwordSalt": "69c563b162b9727834eb6420ab44049f8e9f5755fc45e69a52f79b0a0505915e"
+  }
   },
   "db": {
     "engine": "rocksdb",
